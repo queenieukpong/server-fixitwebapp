@@ -320,7 +320,7 @@ ul {
 
 /* Testimonial and Contact-Us Section */
 .testimonial-bg {
-  background: url(/images/footer-background.png);
+  background: url(./images/footer-background.png);
   background-repeat: no-repeat;
   background-position: top right;
   padding-top: 3.75rem;
